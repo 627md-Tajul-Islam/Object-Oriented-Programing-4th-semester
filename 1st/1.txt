@@ -1,3 +1,6 @@
 Different kinds of languages 
 https://bournetocode.com/projects/GCSE_Computing_Fundamentals/pages/3-2-9-class_prog_langs.html
 
+Difference between languages
+https://www.geeksforgeeks.org/difference-between-machine-language-and-assembly-language/#:~:text=Machine%20language%20is%20the%20low,represented%20by%200s%20and%201s.&text=Assembly%20language%20is%20the%20more,instead%20of%200s%20and%201s.
+
