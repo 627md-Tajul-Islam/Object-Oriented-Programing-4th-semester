@@ -16,7 +16,8 @@ https://www.pluralsight.com/blog/software-development/everything-you-need-to-kno
 What is C# used for?
 https://stackify.com/what-is-c-used-for/
 
-
+Difference Between Compiler Interpreter and Assembler
+https://pediaa.com/difference-between-compiler-interpreter-and-assembler/#:~:text=The%20main%20difference%20between%20compiler,language%20program%20to%20machine%20language.
 
 
 
