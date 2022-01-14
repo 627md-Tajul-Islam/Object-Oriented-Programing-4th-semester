@@ -10,3 +10,5 @@ https://www.geeksforgeeks.org/characteristics-of-good-object-oriented-design/
 POP vs OOP 
 https://www.geeksforgeeks.org/difference-between-oop-and-pop/
 
+Importance of C# 
+https://www.pluralsight.com/blog/software-development/everything-you-need-to-know-about-c-#:~:text=What%20is%20C%23%20used%20for,Lots%20and%20lots%20of%20games.
