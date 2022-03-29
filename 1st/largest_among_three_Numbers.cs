@@ -1,8 +1,9 @@
 using System;
-namespace Number {
-   class number {
-      static void Main(string[] args) {
-         int num1, num2, num3;
+public class largest
+{ 
+    public static void Main(string[] args)
+    {
+       int num1, num2, num3;
          num1 = 100; num2 = 20; num3 = 50;
         if (num1 > num2) {
             if (num1 > num3) {
@@ -19,6 +20,5 @@ namespace Number {
                Console.Write("Number three is the largest\n");
             }
       }
-      }
-   }
+    }
 }
